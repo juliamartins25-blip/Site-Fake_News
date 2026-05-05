@@ -8,7 +8,7 @@
 
 <img width="800" height="450" alt="como combater fake nwes" src="https://github.com/user-attachments/assets/930267bd-1aa2-4a59-8fb2-14d78f7fb7ce" />
 
-<img width="980" height="980" alt="Danos à reputação" src="https://github.com/user-attachments/assets/59c389fd-ba23-4a61-8285-fa6503eaf9f7" />
+<img width="700" height="700" alt="Danos à reputação" src="https://github.com/user-attachments/assets/59c389fd-ba23-4a61-8285-fa6503eaf9f7" />
 
 <img width="710" height="533" alt="dia-das-bruxas-fake-news" src="https://github.com/user-attachments/assets/9cf51357-1155-4448-b687-12f0a38009b5" />
 
