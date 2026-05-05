@@ -11,3 +11,5 @@
 <img width="980" height="980" alt="Danos à reputação" src="https://github.com/user-attachments/assets/59c389fd-ba23-4a61-8285-fa6503eaf9f7" />
 
 <img width="710" height="533" alt="dia-das-bruxas-fake-news" src="https://github.com/user-attachments/assets/9cf51357-1155-4448-b687-12f0a38009b5" />
+
+<img width="740" height="555" alt="Prejuizos econimicos" src="https://github.com/user-attachments/assets/04770066-441f-4253-841a-74968e05b4c4" />
