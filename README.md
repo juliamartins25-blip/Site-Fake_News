@@ -4,7 +4,7 @@
 
 <img width="800" height="600" alt="Manipulação política" src="https://github.com/user-attachments/assets/dcfced5b-3da6-4c13-9da0-3a634b45d7f9" />
 
-<img width="1618" height="1079" alt="tablet fake news" src="https://github.com/user-attachments/assets/21efbfaf-fea2-4b95-8483-a3fe43a487fb" />
+<img width="800" height="600" alt="tablet fake news" src="https://github.com/user-attachments/assets/21efbfaf-fea2-4b95-8483-a3fe43a487fb" />
 
 <img width="800" height="450" alt="como combater fake nwes" src="https://github.com/user-attachments/assets/930267bd-1aa2-4a59-8fb2-14d78f7fb7ce" />
 
