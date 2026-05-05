@@ -1,1 +1,1 @@
-<img width="400" alt="Foto de perfil" src="https://github.com/user-attachments/assets/0a305cab-1d39-4f3b-8b2c-829be5f37d50" />
+<img width="200" alt="Foto de perfil" src="https://github.com/user-attachments/assets/0a305cab-1d39-4f3b-8b2c-829be5f37d50" />
