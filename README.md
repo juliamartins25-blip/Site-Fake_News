@@ -2,7 +2,7 @@
 
 <img width="474" height="393" alt="Placa - fake news" src="https://github.com/user-attachments/assets/e8fc932a-d1ac-495d-886c-cb99736d8f60" />
 
-<img width="1200" height="720" alt="Manipulação política" src="https://github.com/user-attachments/assets/dcfced5b-3da6-4c13-9da0-3a634b45d7f9" />
+<img width="1000" height="700" alt="Manipulação política" src="https://github.com/user-attachments/assets/dcfced5b-3da6-4c13-9da0-3a634b45d7f9" />
 
 <img width="1618" height="1079" alt="tablet fake news" src="https://github.com/user-attachments/assets/21efbfaf-fea2-4b95-8483-a3fe43a487fb" />
 
